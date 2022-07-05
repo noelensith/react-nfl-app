@@ -1,0 +1,425 @@
+{
+  "NFL": [
+    {
+      "city": "Arizona",
+      "name": "Cardinalsm",
+      "abr": "ARI",
+      "conf": "NFC",
+      "div": "West",
+      "record": "11 - 6",
+      "stadium": {
+        "name": "State Farm Stadium",
+        "stadiumSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/University_of_Phoenix_Stadium_no_field.jpg/1280px-University_of_Phoenix_Stadium_no_field.jpg"
+      },
+      "logoSrc": "https://content.sportslogos.net/logos/7/177/full/kwth8f1cfa2sch5xhjjfaof90.png"
+    },
+    {
+      "city": "Atlanta",
+      "name": "Falcons",
+      "abr": "ATL",
+      "conf": "NFC",
+      "div": "South",
+      "record": "7 - 10",
+      "stadium": {
+        "name": "Mercedez-Benz Stadium",
+        "stadiumSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Peach_Bowl_Pre-game_%2839431667481%29.jpg/1280px-Peach_Bowl_Pre-game_%2839431667481%29.jpg"
+      },
+      "logoSrc": "https://content.sportslogos.net/logos/7/173/full/299.png"
+    },
+    {
+      "city": "Baltimore",
+      "name": "Ravens",
+      "abr": "BAL",
+      "conf": "AFC",
+      "div": "North",
+      "record": "8 - 9",
+      "stadium": {
+        "name": "M&T Bank Stadium",
+        "stadiumSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/M%26T_Bank_Stadium_DoD.jpg/1280px-M%26T_Bank_Stadium_DoD.jpg"
+      },
+      "logoSrc": "https://content.sportslogos.net/logos/7/153/full/318.png"
+    },
+    {
+      "city": "Buffalo",
+      "name": "Bills",
+      "abr": "BUF",
+      "conf": "AFC",
+      "div": "EAST",
+      "record": "11 - 6",
+      "stadium": {
+        "name": "Highmark Stadium",
+        "stadiumSrc": "https://upload.wikimedia.org/wikipedia/commons/3/35/Bills.jpg"
+      },
+      "logoSrc": "https://content.sportslogos.net/logos/7/149/full/n0fd1z6xmhigb0eej3323ebwq.png"
+    },
+    {
+      "city": "Carolina",
+      "name": "Panthers",
+      "abr": "CAR",
+      "conf": "NFC",
+      "div": "South",
+      "record": "5 - 12",
+      "stadium": {
+        "name": "Bank of America Stadium",
+        "stadiumSrc": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Carolina_Panthers_24_Tampa_Bay_Bucanners_10.jpg"
+      },
+      "logoSrc": "https://content.sportslogos.net/logos/7/174/full/f1wggq2k8ql88fe33jzhw641u.png"
+    },
+    {
+      "city": "Cincinati",
+      "name": "Bengals",
+      "abr": "CIN",
+      "conf": "AFC",
+      "div": "North",
+      "record": "10 - 7",
+      "stadium": {
+        "name": "Paul Brown Stadium",
+        "stadiumSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Paul_Brown_Stadium_interior_2017.jpg/1920px-Paul_Brown_Stadium_interior_2017.jpg"
+      },
+      "logoSrc": "https://content.sportslogos.net/logos/7/154/full/cincinnati_bengals_logo_primary_2021_sportslogosnet-2049.png"
+    },
+    {
+      "city": "Chicago",
+      "name": "Bears",
+      "abr": "CIN",
+      "conf": "NFC",
+      "div": "North",
+      "record": "6 - 11",
+      "stadium": {
+        "name": "Soldier Field",
+        "stadiumSrc": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Soldier_field_2006.jpg"
+      },
+      "logoSrc": "https://content.sportslogos.net/logos/7/169/full/364.png"
+    },
+    {
+      "city": "Cleveland",
+      "name": "Browns",
+      "abr": "CLE",
+      "conf": "AFC",
+      "div": "North",
+      "record": "8 - 9",
+      "stadium": {
+        "name": "FirstEnergy Stadium",
+        "stadiumSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FirstEnergy_Stadium_field_2016.jpg/1280px-FirstEnergy_Stadium_field_2016.jpg"
+      },
+      "logoSrc": "https://content.sportslogos.net/logos/7/155/full/7855_cleveland_browns-primary-2015.png"
+    },
+    {
+      "city": "Dallas",
+      "name": "Cowboys",
+      "abr": "DAL",
+      "conf": "NFC",
+      "div": "East",
+      "record": "12 - 5",
+      "stadium": {
+        "name": "At&T Stadium",
+        "stadiumSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Cowboys_Stadium_field.jpg/1920px-Cowboys_Stadium_field.jpg"
+      },
+      "logoSrc": "https://content.sportslogos.net/logos/7/165/full/406.png"
+    },
+    {
+      "city": "Denver",
+      "name": "Broncos",
+      "abr": "DEN",
+      "conf": "AFC",
+      "div": "West",
+      "record": "7 - 10",
+      "stadium": {
+        "name": "Empower Field at Mile High",
+        "stadiumSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Invesco_Field_at_Mile_High_Stadium.jpg/1280px-Invesco_Field_at_Mile_High_Stadium.jpg"
+      },
+      "logoSrc": "https://content.sportslogos.net/logos/7/161/full/9ebzja2zfeigaziee8y605aqp.png"
+    },
+    {
+      "city": "Detroit",
+      "name": "Lions",
+      "abr": "DET",
+      "conf": "NFC",
+      "div": "North",
+      "record": "3 - 13",
+      "stadium": {
+        "name": "Ford Field",
+        "stadiumSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Ford-Field-September-10-2006.jpg/1280px-Ford-Field-September-10-2006.jpg"
+      },
+      "logoSrc": "https://content.sportslogos.net/logos/7/170/full/1398_detroit_lions-primary-2017.png"
+    },
+    {
+      "city": "Green Bay",
+      "name": "Packers",
+      "abr": "GB",
+      "conf": "NFC",
+      "div": "North",
+      "record": "13 - 4",
+      "stadium": {
+        "name": "Lambeau Field",
+        "stadiumSrc": "https://upload.wikimedia.org/wikipedia/commons/2/27/Lambeau_Field_bowl.jpg"
+      },
+      "logoSrc": "https://content.sportslogos.net/logos/7/171/full/dcy03myfhffbki5d7il3.png"
+    },
+    {
+      "city": "Houston",
+      "name": "Texans",
+      "abr": "HOU",
+      "conf": "AFC",
+      "div": "South",
+      "record": "4 - 13",
+      "stadium": {
+        "name": "NRG Stadium",
+        "stadiumSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Reliantstadium.jpg/1920px-Reliantstadium.jpg"
+      },
+      "logoSrc": "https://content.sportslogos.net/logos/7/157/full/570.png"
+    },
+    {
+      "city": "Indianapolis",
+      "name": "Colts",
+      "abr": "IND",
+      "conf": "AFC",
+      "div": "South",
+      "record": "9 - 8",
+      "stadium": {
+        "name": "Lucas Oil Stadium",
+        "stadiumSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/LucasOilStadiumTheLuke.jpg/1280px-LucasOilStadiumTheLuke.jpg"
+      },
+      "logoSrc": "https://content.sportslogos.net/logos/7/158/full/indianapolis_colts_logo_primary_20043652.png"
+    },
+    {
+      "city": "Jacksonville",
+      "name": "Jaquars",
+      "abr": "JAX",
+      "conf": "AFC",
+      "div": "South",
+      "record": "3 - 14",
+      "stadium": {
+        "name": "TIAA Bank Field",
+        "stadiumSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Superbowl_XXXIX%2C_2005.JPG/1280px-Superbowl_XXXIX%2C_2005.JPG"
+      },
+      "logoSrc": "https://content.sportslogos.net/logos/7/159/full/8856_jacksonville_jaguars-alternate-2013.png"
+    },
+    {
+      "city": "Kansas City",
+      "name": "Chiefts",
+      "abr": "KC",
+      "conf": "AFC",
+      "div": "West",
+      "record": "12 - 5",
+      "stadium": {
+        "name": "Arrowhead  Stadium",
+        "stadiumSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Chiefsgame.jpg/1280px-Chiefsgame.jpg"
+      },
+      "logoSrc": "https://content.sportslogos.net/logos/7/162/full/857.png"
+    },
+    {
+      "city": "Las Vegas",
+      "name": "Raiders",
+      "abr": "LV",
+      "conf": "AFC",
+      "div": "West",
+      "record": "10 - 7",
+      "stadium": {
+        "name": "Allegiant Stadium",
+        "stadiumSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Allegiant_Stadium.jpg/1920px-Allegiant_Stadium.jpg"
+      },
+      "logoSrc": "https://content.sportslogos.net/logos/7/6708/full/8521_las_vegas_raiders-primary-20201.png"
+    },
+    {
+      "city": "Los Angeles",
+      "name": "Chargers",
+      "abr": "LAC",
+      "conf": "AFC",
+      "div": "West",
+      "record": "9 - 8",
+      "stadium": {
+        "name": "SoFi Stadium",
+        "stadiumSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/SoFi_Stadium_interior_2021.jpg/1280px-SoFi_Stadium_interior_2021.jpg"
+      },
+      "logoSrc": "https://content.sportslogos.net/logos/7/6446/full/1660_los_angeles__chargers-primary-20201.png"
+    },
+    {
+      "city": "Los Angeles",
+      "name": "Rams",
+      "abr": "LAR",
+      "conf": "NFC",
+      "div": "West",
+      "record": "12 - 5",
+      "stadium": {
+        "name": "Sofi Stadium",
+        "stadiumSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/SoFi_Stadium_interior_2021.jpg/1280px-SoFi_Stadium_interior_2021.jpg"
+      },
+      "logoSrc": "https://content.sportslogos.net/logos/7/5941/full/8334_los_angeles_rams-primary-20201.png"
+    },
+    {
+      "city": "Miami",
+      "name": "Dolphins",
+      "abr": "MIA",
+      "conf": "AFC",
+      "div": "East",
+      "record": "9 - 8",
+      "stadium": {
+        "name": "Hard Rock Stadium",
+        "stadiumSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Hard_Rock_Stadium_2017_2.jpg/1280px-Hard_Rock_Stadium_2017_2.jpg"
+      },
+      "logoSrc": "https://content.sportslogos.net/logos/7/150/full/7306_miami_dolphins-primary-2018.png"
+    },
+    {
+      "city": "Minnesota",
+      "name": "Vikings",
+      "abr": "MIN",
+      "conf": "NFC",
+      "div": "North",
+      "record": "8 - 9",
+      "stadium": {
+        "name": "U.S. Bank Stadium",
+        "stadiumSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Vikings-US16.jpg/1280px-Vikings-US16.jpg"
+      },
+      "logoSrc": "https://content.sportslogos.net/logos/7/172/full/2704_minnesota_vikings-primary-20131.png"
+    },
+    {
+      "city": "New England",
+      "name": "Patriots",
+      "abr": "NE",
+      "conf": "AFC",
+      "div": "East",
+      "record": "10 - 7",
+      "stadium": {
+        "name": "Gillete Stadium",
+        "stadiumSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Gillette_Stadium02.jpg/1280px-Gillette_Stadium02.jpg"
+      },
+      "logoSrc": "https://content.sportslogos.net/logos/7/151/full/new_england_patriots_logo_primary_20005480.png"
+    },
+    {
+      "city": "New Orleans",
+      "name": "Saints",
+      "abr": "NO",
+      "conf": "NFC",
+      "div": "South",
+      "record": "9 - 8",
+      "stadium": {
+        "name": "Caesars Superdome",
+        "stadiumSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Saints_Stadium_%283927508936%29.jpg/1280px-Saints_Stadium_%283927508936%29.jpg"
+      },
+      "logoSrc": "https://content.sportslogos.net/logos/7/175/full/907.png"
+    },
+    {
+      "city": "New York",
+      "name": "Giants",
+      "abr": "NYG",
+      "conf": "NFC",
+      "div": "East",
+      "record": "4 - 13",
+      "stadium": {
+        "name": "MetLife Stadium",
+        "stadiumSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/New_Meadowlands_Stadium_Mezz_Corner.jpg/1280px-New_Meadowlands_Stadium_Mezz_Corner.jpg"
+      },
+      "logoSrc": "https://content.sportslogos.net/logos/7/166/full/new_york_giants_logo_primary_20005208.png"
+    },
+    {
+      "city": "New York",
+      "name": "Jets",
+      "abr": "NYJ",
+      "conf": "AFC",
+      "div": "East",
+      "record": "4 - 13",
+      "stadium": {
+        "name": "MetLife Stadium",
+        "stadiumSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/New_Meadowlands_Stadium_Mezz_Corner.jpg/1280px-New_Meadowlands_Stadium_Mezz_Corner.jpg"
+      },
+      "logoSrc": "https://content.sportslogos.net/logos/7/152/full/9116_new_york_jets-primary-2019.png"
+    },
+    {
+      "city": "Philidelphia",
+      "name": "Eagles",
+      "abr": "PHI",
+      "conf": "NFC",
+      "div": "East",
+      "stadium": {
+        "name": "Lincoln Financial Field",
+        "stadiumSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/2017-18_NFC_championship_game.jpg/1280px-2017-18_NFC_championship_game.jpg"
+      },
+      "record": "9 - 8",
+      "logoSrc": "https://content.sportslogos.net/logos/7/167/full/960.png"
+    },
+    {
+      "city": "Pittsburgh",
+      "name": "Steelers",
+      "abr": "PIT",
+      "conf": "AFC",
+      "div": "North",
+      "stadium": {
+        "name": "Heinz Field",
+        "stadiumSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Heinz_Field02.jpg/1280px-Heinz_Field02.jpg"
+      },
+      "record": "9 - 7",
+      "logoSrc": "https://content.sportslogos.net/logos/7/156/full/970.png"
+    },
+    {
+      "city": "Seattle",
+      "name": "Seahawks",
+      "abr": "SEA",
+      "conf": "NFC",
+      "div": "West",
+      "stadium": {
+        "name": "Lumen Field",
+        "stadiumSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Seahawksvcowboysatqwest.jpg/1280px-Seahawksvcowboysatqwest.jpg"
+      },
+      "record": "7 - 10",
+      "logoSrc": "https://content.sportslogos.net/logos/7/180/full/pfiobtreaq7j0pzvadktsc6jv.png"
+    },
+    {
+      "city": "San Francisco",
+      "name": "49ers",
+      "abr": "SF",
+      "conf": "NFC",
+      "div": "West",
+      "stadium": {
+        "name": "Levi's Stadium",
+        "stadiumSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Broncos_vs_49ers_preseason_game_at_Levi%27s_Stadium.jpg/1920px-Broncos_vs_49ers_preseason_game_at_Levi%27s_Stadium.jpg"
+      },
+      "record": "10 - 7",
+      "logoSrc": "https://content.sportslogos.net/logos/7/179/full/9455_san_francisco_49ers-primary-2009.png"
+    },
+    {
+      "city": "Tampa Bay",
+      "name": "Buccaneers",
+      "abr": "TB",
+      "conf": "NFC",
+      "div": "South",
+      "stadium": {
+        "name": "Raymond James Stadium",
+        "stadiumSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Raymond_James_Stadium02.JPG/1280px-Raymond_James_Stadium02.JPG"
+      },
+      "record": "13 - 4",
+      "logoSrc": "https://content.sportslogos.net/logos/7/176/full/8363_tampa_bay_buccaneers-primary-2020.png"
+    },
+    {
+      "city": "Tennessee",
+      "name": "Titans",
+      "abr": "TEN",
+      "conf": "AFC",
+      "div": "South",
+      "stadium": {
+        "name": "Nissan Stadium",
+        "stadiumSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Night_Settles_on_LP_Field.jpg/1280px-Night_Settles_on_LP_Field.jpg"
+      },
+      "record": "12 - 5",
+      "logoSrc": "https://content.sportslogos.net/logos/7/160/full/1053.png"
+    },
+    {
+      "city": "Washington",
+      "name": "Commanders",
+      "abr": "WAS",
+      "conf": "NFC",
+      "div": "East",
+      "stadium": {
+        "name": "FedExField",
+        "stadiumSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/FedExField01.jpg/1280px-FedExField01.jpg"
+      },
+      "record": "7 - 10",
+      "logoSrc": "https://content.sportslogos.net/logos/7/6832/full/washington_commanders_logo_primary_20228587.png"
+    }
+  ],
+
+  "Question": [
+    {
+        "{\"Question\":\"How many superbowls do the 49ers have?\"}": ""
+      }
+]} 
